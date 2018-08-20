@@ -1,0 +1,8 @@
+*** CDR HEADER ***
+
+
+
+@@@057689425|MSISDN|Subscriber IMEI|Operator Brand Name| Operator MCC|MNC tuple|Call Type|Call Date|Call Time|Duration|Download|Upload@@@
+@@@05768487|MSISDN|Subscriber IMEI|Operator Brand Name| Operator MCC|MNC tuple|Call Type|Call Date|Call Time|Duration|Download|Upload@@@
+@@@055376515|MSISDN|Subscriber IMEI|Operator Brand Name| Operator MCC|MNC tuple|Call Type|Call Date|Call Time|Duration|Download|Upload@@@
+@@@21714725|MSISDN|Subscriber IMEI|Operator Brand Name| Operator MCC|MNC tuple|Call Type|Call Date|Call Time|Duration|Download|Upload@@@
